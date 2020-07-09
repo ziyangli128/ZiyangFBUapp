@@ -67,7 +67,7 @@ Builds an online community that users can share their outfits by creating posts 
 * Profile
 
 ## Wireframes
-<img src="" width=800><br>
+<img src="https://github.com/ziyangli128/ZiyangFBUapp/blob/master/app%20sketch.jpg" width=800><br>
 
 ## Schema 
 ### Models
